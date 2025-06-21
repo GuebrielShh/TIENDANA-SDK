@@ -9,18 +9,5 @@ TiendanaMP.SDK
 - 📦 Arquitectura modular y desacoplada
 - ⚙️ Soporte para entornos productivos y sandbox
 
----
 
-TiendanaMP.SDK/
-├── Models/
-│   ├── Request/
-│   ├── Response/
-│   └── Token_Request/
-├── Services/
-│   ├── Interfaces/
-│   └── Implementations/
-├── Utils/
-├── MercadoPagoConstants.cs
-├── TiendanaMP.SDK.csproj
-└── ...
 
