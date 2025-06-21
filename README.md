@@ -7,7 +7,7 @@ TiendanaMP.SDK
 - 🏦 Pagos PSE (transferencias bancarias)
 - 🔄 Renovación automática de tokens
 - 📦 Arquitectura modular y desacoplada
-- ⚙️ Soporte para entornos productivos y sandbox
+
 
 
 
