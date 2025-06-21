@@ -3,8 +3,6 @@ using Microsoft.AspNetCore.Http;
 using RestSharp;
 using System.Text.Json;
 using TiendanaMP.SDK.Models;
-
-using TiendanaMP.SDK.Models.Response;
 using TiendanaMP.SDK.Services.Implementations;
 using TiendanaMP.SDK.Models.Token_Request;
 using TiendanaMP.SDK.Services.Interfaces;

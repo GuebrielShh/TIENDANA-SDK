@@ -1,5 +1,4 @@
 using RestSharp;
-using TiendanaMP.SDK.Models;
 using System.Text.Json;
 using System.Collections.Concurrent;
 using Microsoft.Extensions.Configuration;
