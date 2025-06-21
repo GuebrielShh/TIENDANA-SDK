@@ -1,0 +1,5 @@
+C:\Users\guebr\Documents\TiendanaSolution\TiendanaMP.SDK\obj\Debug\net9.0\TiendanaMP.SDK.csproj.AssemblyReference.cache
+C:\Users\guebr\Documents\TiendanaSolution\TiendanaMP.SDK\obj\Debug\net9.0\TiendanaMP.SDK.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guebr\Documents\TiendanaSolution\TiendanaMP.SDK\obj\Debug\net9.0\TiendanaMP.SDK.AssemblyInfoInputs.cache
+C:\Users\guebr\Documents\TiendanaSolution\TiendanaMP.SDK\obj\Debug\net9.0\TiendanaMP.SDK.AssemblyInfo.cs
+C:\Users\guebr\Documents\TiendanaSolution\TiendanaMP.SDK\obj\Debug\net9.0\TiendanaMP.SDK.csproj.CoreCompileInputs.cache
