@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TiendanaMP.SDK")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b3bf807efe4404c2da2b95b33e02828d45f054ca")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+02bc4764b3caba68de73a542ed23bc33f29b3c29")]
 [assembly: System.Reflection.AssemblyProductAttribute("TiendanaMP.SDK")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TiendanaMP.SDK")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
