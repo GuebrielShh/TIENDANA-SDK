@@ -1,7 +1,3 @@
-using RestSharp;
-using System.Text.Json;
-using System.Collections.Concurrent;
-using Microsoft.Extensions.Configuration;
 using TiendanaMP.SDK.Models.Response;
 using TiendanaMP.SDK.Services.Interfaces;
 

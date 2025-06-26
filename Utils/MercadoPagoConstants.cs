@@ -10,7 +10,6 @@ public static class MercadoPagoConstants
     // Pagos y otros
     public const string PAYMENT_ENDPOINT = "/v1/payments";
     public const string PAYMENT_METHODS_ENDPOINT = "/v1/payment_methods";
-    public const string IDENTIFICATION_TYPES_ENDPOINT = "/v1/identification_types";
     public const string FINANCIAL_INSTITUTIONS_ENDPOINT = "/v1/payment_methods/card_issuers";
    
 }

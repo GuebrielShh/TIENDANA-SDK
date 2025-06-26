@@ -1,7 +1,4 @@
-using RestSharp;
 using TiendanaMP.SDK.Models;
-using System.Text.Json;
-using Microsoft.Extensions.Configuration;
 using TiendanaMP.SDK.Services.Implementations;
 using TiendanaMP.SDK.Services.Interfaces;
 namespace TiendanaMP.SDK.Services;
